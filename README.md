@@ -4,6 +4,4 @@ HTML-CSS-JavaScript bilgilerimi pekiştirmek adına yapmış olduğum genişleye
 
 ---
 
-Uygulamaya ait görseller:
-![Resim1](/images/card.jpg)
-![Resim2](/images/card2.jpg)
+![Resim1](/images/kart.jpg)
